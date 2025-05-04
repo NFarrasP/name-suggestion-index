@@ -442,6 +442,17 @@
       }
     },
     {
+      "displayName": "Inovasi Parkir Mandiri",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "amenity": "parking",
+        "operator": "Inovasi Parkir Mandiri",
+        "operator:short": "IPM",
+        "operator:type": "private",
+        "operator:wikidata": "Q134333867"
+      }
+    },
+    {
       "displayName": "Interparking",
       "id": "interparking-119199",
       "locationSet": {
